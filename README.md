@@ -29,5 +29,6 @@ The code is here for an archival purpose, and the scripts on the HuggingFace por
 
 
 ![CLARIN.SI logo](clarin-logo.png)
+
 The code contained here was produced within the CLARIN.SI 2024 project "Implementacija podpore za razširjeno uporabo 
 slovenskih virov za odkrivanje koreferenčnosti".
