@@ -1,6 +1,6 @@
 This repository serves as a code archive for the deliverables produced within the CLARIN.SI 2024 project "Implementacija podpore za razširjeno uporabo 
 slovenskih virov za odkrivanje koreferenčnosti". 
-The aim of the project was to enable easier use and braoder recognition of Slovene coreference data:
+The aim of the project was to enable easier use and broader recognition of Slovene coreference data:
 - via a convenient `datasets` library data loading implementation;
 - via a conversion into the universal CorefUD data format;
 - via a unified benchmarking implementation within the SloBENCH evaluation framework.
@@ -13,7 +13,7 @@ CorefUD CoNLL-U format. For the scripts to work, the following data in raw forma
 - `SUK.TEI/` = [SentiCoref corpus](http://hdl.handle.net/11356/1959);
 - `senticoref_private` = publicly unavailable, intended to be accessible only via the [SloBENCH evaluation framework](https://slobench.cjvt.si/).
 
-Afterwards, the corresponding scripts (`convert_coref149.py`, `convert_senticoref.py`, `convert_senticoref_private.py`) can be run successfully.
+Afterward, the corresponding scripts (`convert_coref149.py`, `convert_senticoref.py`, `convert_senticoref_private.py`) can be run successfully.
 
 ### Benchmarking_SloBENCH
 The folder contains implementation of coreference resolution evaluation within the SloBENCH evaluation framework for the coref149 and SentiCoref corpora.
